@@ -1,0 +1,19 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+@media only screen and (min-width: 200px) and (max-width: 567px){
+	.main{
+		width: 100%;
+	}
+	.container{
+		width: 100%;
+	}
+	body{
+	width: 100vh;
+    }
+    .header{
+    	width: 100%;
+    	margin: auto;
+    }
+}
